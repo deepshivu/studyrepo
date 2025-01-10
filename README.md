@@ -1,4 +1,5 @@
-AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
+1.ASG scaling step scaling based on CW alarm https://www.youtube.com/watch?v=0CL0hkjhxoo
+2.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
 Subnets:
 2 public subnets in us-east-1a and us-east-1b, with public IP assignment enabled.
