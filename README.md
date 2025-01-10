@@ -13,4 +13,9 @@ To deploy this template:
 Save the YAML to a file (e.g., vpc-template.yaml).
 Go to the AWS CloudFormation Console and create a new stack, using this YAML file.
 Monitor the stack creation process.
-This template sets up a VPC with a typical architecture for a highly available environment across two AZs with private and public subnets, route tables, and NAT Gateways for internet access in private
+This template sets up a VPC with a typical architecture for a highly available environment across two AZs with private and public subnets, route tables, and NAT Gateways for internet access in private.
+also create 2 ec2 servers behind an ASG in private subnets, setup a bastion host and ssh to ec2 servers in private subnet using bastion host and then setup application using same. then setup a alb with the 2 ec2 server intstances in (private subnets using alb tg . 
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html
+
+
+
