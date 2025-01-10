@@ -112,6 +112,7 @@ AWS CloudWatch: Monitor resources and application performance with alarms and da
 AWS Systems Manager: Automate operational tasks, manage instances, and run commands.
 AWS Config: Track configuration changes and compliance in your AWS environment.
 AWS X-Ray: Analyze and debug distributed applications.
+
 2. Security
 Protect systems and data through risk assessment, access control, and data encryption.
 
@@ -123,6 +124,7 @@ AWS WAF (Web Application Firewall): Protect applications from common web exploit
 Amazon GuardDuty: Threat detection and continuous monitoring.
 AWS Secrets Manager: Store and manage access credentials securely.
 AWS Certificate Manager: Provision and manage SSL/TLS certificates.
+
 3. Reliability
 Ensure workloads recover from failures and meet the intended availability requirements.
 
@@ -133,6 +135,7 @@ Amazon S3: Durable storage with cross-region replication.
 Amazon RDS Multi-AZ: High availability for relational databases.
 AWS Elastic Load Balancing (ELB): Distribute traffic across multiple resources.
 AWS Backup: Automate data backup across AWS services.
+
 4. Performance Efficiency
 Use resources efficiently to meet system requirements and respond to changes in demand.
 
@@ -143,6 +146,7 @@ Amazon CloudFront: Deliver content with low latency using a global CDN.
 Amazon DynamoDB: High-performance, serverless NoSQL database.
 AWS Global Accelerator: Improve global application performance by routing traffic to optimal endpoints.
 AWS Compute Optimizer: Analyze usage patterns and recommend instance types.
+
 5. Cost Optimization
 Deliver business value at the lowest possible cost.
 
