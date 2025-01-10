@@ -1,6 +1,8 @@
 1.ASG scaling step scaling based on CW alarm https://www.youtube.com/watch?v=0CL0hkjhxoo
 create asg backed by LB , in asg go to auto scaling and create scaling policy , dynamic scaling step scaling . create cloud watch alarm for scale in and scale out and select those alarms in scaling policies and in alarms select cloud watch metric ec2- asg cpu utilization. this metric is created by default no additional setting
 
+https://www.youtube.com/watch?v=8sUJFkXtzXY
+Cloudfront with alb and dns
 
 2.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
