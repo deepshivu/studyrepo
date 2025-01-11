@@ -7,6 +7,7 @@ s3 static website to cloudfront to route 53 , using ssl certificate from certifi
 https://www.youtube.com/watch?v=YEIuuVKIy8U
 cloudwatch video - abhishek https://www.youtube.com/watch?v=u4XngwbY-O0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=18
 cost optimization using lambda https://www.youtube.com/watch?v=OKYJCHHSWb4&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=20
+migrating applications to aws cloud https://www.youtube.com/watch?v=cAXPA5lqkV4&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=30
 
 3.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
