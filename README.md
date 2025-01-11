@@ -5,6 +5,7 @@ create asg backed by LB , in asg go to auto scaling and create scaling policy , 
 Cloudfront with alb and dns
 s3 static website to cloudfront to route 53 , using ssl certificate from certificate manager
 https://www.youtube.com/watch?v=YEIuuVKIy8U
+cloudwatch video - abhishek https://www.youtube.com/watch?v=u4XngwbY-O0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=18
 
 3.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
