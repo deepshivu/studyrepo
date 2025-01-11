@@ -1,10 +1,12 @@
 1.ASG scaling step scaling based on CW alarm https://www.youtube.com/watch?v=0CL0hkjhxoo
 create asg backed by LB , in asg go to auto scaling and create scaling policy , dynamic scaling step scaling . create cloud watch alarm for scale in and scale out and select those alarms in scaling policies and in alarms select cloud watch metric ec2- asg cpu utilization. this metric is created by default no additional setting
 
-https://www.youtube.com/watch?v=8sUJFkXtzXY
+2. https://www.youtube.com/watch?v=8sUJFkXtzXY
 Cloudfront with alb and dns
+s3 static website to cloudfront to route 53 , using ssl certificate from certificate manager
+https://www.youtube.com/watch?v=YEIuuVKIy8U
 
-2.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
+3.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
 Subnets:
 2 public subnets in us-east-1a and us-east-1b, with public IP assignment enabled.
@@ -24,7 +26,7 @@ also create 2 ec2 servers behind an ASG in private subnets, setup a bastion host
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html
 
 
-2 teir and 3 teir architecture aws
+4 teir and 3 teir architecture aws
 what is the meaning of 2 teir and 3 teir web application and how to design it in aws
 ChatGPT said:
 ChatGPT
@@ -107,7 +109,7 @@ AWS offers the scalability, reliability, and flexibility to design both 2-tier a
 
 
 
-The five pillars of AWS Well-Architected Framework guide you in building secure, resilient, efficient, and cost-effective applications. Below are the pillars along with AWS services that can help achieve these standards:
+5.The five pillars of AWS Well-Architected Framework guide you in building secure, resilient, efficient, and cost-effective applications. Below are the pillars along with AWS services that can help achieve these standards:
 
 1. Operational Excellence
 Focuses on running and monitoring systems effectively and continuously improving processes and procedures.
