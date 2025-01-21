@@ -13,6 +13,7 @@ migrating applications to aws cloud https://www.youtube.com/watch?v=cAXPA5lqkV4&
 day 12 , 13,14,15- code commit, code build, code deploy, code pipeline https://www.youtube.com/watch?v=n42nFDTkTCI&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=14
 Day 23 Secrets management https://www.youtube.com/watch?v=FllcHYsBm78&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=25
 jenkins CI/Cd setting up docker slaves - https://www.youtube.com/watch?v=zZfhAXfBvVA&list=PLdpzxOOAlwvLUH6ww022l7OZGakJYP9WY&index=3
+jenkins for ci build docker image and deploy to k8 cluster using argo cd theory https://www.youtube.com/watch?v=jNPGo6A4VHc&list=PLdpzxOOAlwvLUH6ww022l7OZGakJYP9WY&index=4
 3.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
 Subnets:
