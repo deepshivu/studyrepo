@@ -3,11 +3,15 @@ create asg backed by LB , in asg go to auto scaling and create scaling policy , 
 
 2. https://www.youtube.com/watch?v=8sUJFkXtzXY
 Cloudfront with alb and dns
-s3 static website to cloudfront to route 53 , using ssl certificate from certificate manager
-https://www.youtube.com/watch?v=YEIuuVKIy8U
+s3 static website to cloudfront to route 53 , using ssl certificate from certificate manager https://www.youtube.com/watch?v=YEIuuVKIy8U
+
+abhishek's videos done
+https://www.youtube.com/watch?v=YEIuuVKIy8U Day8 interview qstns
 cloudwatch video - abhishek https://www.youtube.com/watch?v=u4XngwbY-O0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=18
 cost optimization using lambda https://www.youtube.com/watch?v=OKYJCHHSWb4&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=20
 migrating applications to aws cloud https://www.youtube.com/watch?v=cAXPA5lqkV4&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=30
+day 12 , 13,14,15- code commit, code build, code deploy, code pipeline https://www.youtube.com/watch?v=n42nFDTkTCI&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=14
+Day 23 Secrets management https://www.youtube.com/watch?v=FllcHYsBm78&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=25
 
 3.AWS Prod Example Abhishek day 7 aws https://www.youtube.com/watch?v=FZPTL_kNvXc
 VPC: Creates a VPC with a customizable CIDR block.
