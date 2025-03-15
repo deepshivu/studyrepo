@@ -1,0 +1,7 @@
+def reverse_string(s):
+    #slicing to reverse a string, format is s[start:stop:-1], -1 to traverse backwards and omitting start and stop to consider full string
+    return s[::-1]
+
+input_string="hello world"
+reversed_string=reverse_string(input_string)
+print(f"input string is {input_string} and reversed string is {reversed_string}")
